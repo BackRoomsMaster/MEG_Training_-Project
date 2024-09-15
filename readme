@@ -1,0 +1,3 @@
+g++ -std=c++11 meg_terminal.cpp -o meg_terminal
+
+./meg_terminal
