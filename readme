@@ -13,4 +13,10 @@ g++ -std=c++11 MEG_Training.cpp -o MEG_Training
 
 ./MEG_Training.exe 
 
+Se proprio non avete voglia di installarli da soli manualmente ho creato un menù di installazione che ve li compila e li esegue direttamente.
+
+g++ installazione.cpp
+
+dopodiché qualunque sia il risultato fate ./(nome del risultato eseguibile) 
+
 made by JashinL
